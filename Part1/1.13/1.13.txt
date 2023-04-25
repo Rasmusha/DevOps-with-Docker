@@ -1,4 +1,0 @@
-Commands used
-
-$docker build . -t backend
-$docker run -p backend
